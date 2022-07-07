@@ -10,3 +10,8 @@ body{
     height: 150px;
     border-radius: 50%;
 }
+.user-avatar-lg{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}

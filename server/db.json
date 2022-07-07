@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "mobile": "010-692-6593 x09125",
+      "photo": "https://c8.alamy.com/zooms/9/951a1d6e30d04cde8585b67970b1178b/mcj0ft.jpg",
+      "company": "Deckow-Crist",
+      "title": "Youtuber",
+      "groupId": "1"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "mobile": "1-463-123-4447",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLySv0A_bc1zkIr_ks_IBcbUFHYyoQsMHnbbsE5rdUWVbX9TCu7C-4zZSDQztnmR-5VQ&usqp=CAU",
+      "company": "Romaguera-Jacobson",
+      "title": "Freelancer",
+      "groupId": "2"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "mobile": "(254)954-1289",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtQaErjo_lwVWLLqh7_dlvQbzkQulOrOU8kAgphLpW5Z1opkg1H7SROvCEtKQvY6VEtJg&usqp=CAU",
+      "company": "Keebler LLC",
+      "title": "Freelancer",
+      "groupId": "3"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "mobile": "1-477-935-8478 x6430",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ2wKE1kJniJKAdyQNr7lfPegGMBFx0BCCQZQE3DRI_bCrxTRmxzcUeNX22JooEtg33U&usqp=CAU",
+      "company": "Considine-Lockman",
+      "title": "Software engineer",
+      "groupId": "4"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "mobile": "586.493.6943 x140",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtoo2n3xkRV-wBNQ992Mjze1REnxenYCYgLTa5tD9N59JMAOpJ2bdGOFWQHHsNz0q_ZPg&usqp=CAU",
+      "company": "Abernathy Group",
+      "title": "Youtuber",
+      "groupId": "6"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "mobile": "(775)976-6794 x41206",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqqmrwfhNZqEc24UN4t5fQAOXyzT_nRRtNNklkiN99i67h6K0teGQ946ZBPek24sxMAQ&usqp=CAU",
+      "company": "Yost and Sons",
+      "title": "Tiktoker",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Communicaty"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
