@@ -137,14 +137,14 @@ function ContactList() {
                                     <div className="card my-2">
                                        <div className="card-body">
                                           <div className="row align-items-center d-flex justify-content-around">
-                                             <div className="col-md-4">
+                                             <div className="col-md-3">
                                                 <img
                                                    src={contact.photo}
                                                    className="user-avatar"
                                                    alt=""
                                                 />
                                              </div>
-                                             <div className="col-md-7">
+                                             <div className="col-md-8">
                                                 <ul className="list-group">
                                                    <li className="list-group-item list-group-item-action">
                                                       Name: <span className="fw-bold"> {contact.name}</span>
